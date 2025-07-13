@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**CristianAlam/CristianAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate from the University of Haifa, enthusiastic about technology and skilled at solving complex challenges through software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+University of Haifa  
+
+---
+
+## 💻 Skills
+
+- **Languages:** Python, Java, Mql5, C++, C  
+- **Tools & Platforms:** Pycharm, MetaTrader 5, GitHub, VSCode, google colabs, google sheets, excel
+- **Skills:**  
+   - Proficient in programming languages such as  Python,Java, C++, C and MQL5.
+   - Knowledgeable in core computer science topics such as data structures, algorithm design, and both classical and deep machine learning techniques.
+   - Knowledgeable in software engineering principles and development methodologies.  
+   - Trading system design and analysis  
+  
+- **Other:** Strong analytical thinking, fast learner, self-driven
+
+---
+
+## 🔬 Interests
+
+
+
+---
+
+## 📫 Contact
+
+- **Email:** crisalam25@gmail.com  
+- **LinkedIn:** [linkedin.com/in/cristian-alam](https://www.linkedin.com/in/cristian-alam)  
+- *(Portfolio website coming soon)*
+
+---
+
+> Currently open to opportunities in software development, fintech, or algorithmic trading roles.
