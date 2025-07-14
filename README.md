@@ -1,4 +1,4 @@
-# 👋 About Me
+#  About Me
 
 Computer Science graduate from the University of Haifa, enthusiastic about technology and skilled at solving complex challenges through software development.
 
@@ -11,7 +11,7 @@ University of Haifa
 
 ---
 
-## 💻 Skills
+##  Skills
 
 - **Languages:** Python, Java, Mql5, C++, C  
 - **Tools & Platforms:** Pycharm, MetaTrader 5, GitHub, VSCode, google colabs, google sheets, excel
@@ -25,13 +25,13 @@ University of Haifa
 
 ---
 
-## 🔬 Interests
+## Projects
 
 
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - **Email:** crisalam25@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/cristian-alam-84a741204/  
