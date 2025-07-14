@@ -34,7 +34,7 @@ University of Haifa
 ## 📫 Contact
 
 - **Email:** crisalam25@gmail.com  
-- **LinkedIn:** [linkedin.com/in/cristian-alam](https://www.linkedin.com/in/cristian-alam)  
+- **LinkedIn:** https://www.linkedin.com/in/cristian-alam-84a741204/  
 - *(Portfolio website coming soon)*
 
 ---
