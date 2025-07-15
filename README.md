@@ -28,18 +28,18 @@ University of Haifa
 ##  Projects
 
 ### 🔹 Financial Markets Research (MQL5)
-A personal research repository for exploring financial markets using MQL5. Includes modular classes for trade handling, chart visualization, and reusable function libraries for building expert advisors in MetaTrader 5.  [github project link](https://github.com/CristianAlam/Financial-Markets-research)  
+A personal research repository for exploring financial markets using MQL5. Includes modular classes for trade handling, chart visualization, and reusable function libraries for building expert advisors in MetaTrader 5.  [project github link](https://github.com/CristianAlam/Financial-Markets-research)  
 
 
 ---
 
 ### 🔹 MT5 Trade Replay & Performance Analyzer
-Simulates real MetaTrader 5 trades on historical data. Loads both price and trade data directly from MT5, replays trades, and exports detailed performance metrics (e.g., drawdown, RR, duration) to CSV. Ideal for custom backtesting and trade review workflows. [github project link](https://github.com/CristianAlam/Financial-Markets-research)  
+Simulates real MetaTrader 5 trades on historical data. Loads both price and trade data directly from MT5, replays trades, and exports detailed performance metrics (e.g., drawdown, RR, duration) to CSV. Ideal for custom backtesting and trade review workflows. [project github link](https://github.com/CristianAlam/Trading-Simulator)  
 
 ---
 
 ### 🔹 Full-Stack Online Shop (OCSF Java)
-Developed a complete full-stack e-commerce application using the **OCSF Java framework**. Features include user registration & login, order management, customer service chat, admin-side customization, and automated statistical reporting. [github project link](https://github.com/CristianAlam/Financial-Markets-research)  
+Developed a complete full-stack e-commerce application using the **OCSF Java framework**. Features include user registration & login, order management, customer service chat, admin-side customization, and automated statistical reporting. [project github link](https://github.com/CristianAlam/E-COMMERCE-Client-Server-)  
 **Technologies:** Java, JavaFX, MySQL, Maven, CSS, Git, GitHub
 
 
