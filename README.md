@@ -55,4 +55,3 @@ Developed a complete full-stack e-commerce application using the **OCSF Java fra
 
 ---
 
-> Currently open to opportunities in software development, fintech, or algorithmic trading roles.
