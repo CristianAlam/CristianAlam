@@ -52,7 +52,6 @@ Developed a complete full-stack e-commerce application using the **OCSF Java fra
 
 - **Email:** crisalam25@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/cristian-alam-84a741204/  
-- *(Portfolio website coming soon)*
 
 ---
 
